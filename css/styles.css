@@ -19,7 +19,6 @@ font-family: 'Roboto', sans-serif;
 #navbar > h1 {
   display:inline-block;
   vertical-align: top;
-  line-height: 50px;
 }
 
 #navbar {
@@ -28,9 +27,23 @@ font-family: 'Roboto', sans-serif;
   left: 1px;
   right: 1px;
   bottom: 1px;
+  text-decoration: none;
 /*  background-color: rgba(0,0,0,0.5); /* Black background with opacity */
 }
 
 #navbar > img{
   border:5px solid #262626;
+}
+
+#navbar > ul{
+  display:inline;
+  list-style-type: none;
+  display:inline-block;
+  vertical-align: top;
+  line-height: 50px;
+}
+
+#navbar > li{
+  color: white;
+  text-decoration: none;
 }
