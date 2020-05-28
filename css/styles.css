@@ -2,13 +2,7 @@ body {
 font-family: 'Roboto', sans-serif;
 }
 
-/* Centered text */
-.centered {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
+
 .headimg {
 	background-image: url('./pieos_wallpaper.png');
 	background-position: center;
