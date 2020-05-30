@@ -8,7 +8,7 @@ body{
 }
 #search{
   position: fixed;
-  top: 400px;
+  top: 500px;
   left: 50%;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
@@ -24,7 +24,7 @@ body{
 
 #text{
   position: fixed;
-  top: 370px;
+  top: 390px;
   left: 50%;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
