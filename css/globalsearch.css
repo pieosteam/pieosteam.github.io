@@ -16,7 +16,7 @@ body{
 
 #logoimage{
   position: fixed;
-  top: 35%;
+  top: 800px;
   left: 50%;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
@@ -24,7 +24,7 @@ body{
 
 #text{
   position: fixed;
-  top: 49%;
+  top: 850px;
   left: 50%;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
