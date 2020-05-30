@@ -95,7 +95,9 @@ padding-right: 15px;
   #mob{display: block;}
 	
   #mob{
-    width:100%;	
+    width:100%;
+	  margin-left: 0%;
+	  left: 0%;
   }
 
   #mob ul{
@@ -104,12 +106,15 @@ padding-right: 15px;
     left: 0px;
     background-color: rgba(0,0,0,0.5);
     width:100%;
+	  margin-left: 0%;
+	  left: 0%;
   }
   #mob li{
     text-align: center;
     padding: 20px;
     cursor: pointer;
     width:100%;
- 
+ margin-left: 0%;
+	  left: 0%;
   }
 }
