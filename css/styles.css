@@ -88,33 +88,26 @@ padding-right: 15px;
   display: none;
 }
 
-@media screen and (max-width: 700px){
+@media screen and (max-width: 815px){
   #nav{display: none;}
   #navbar > iframe{display: none;}
   li{display: block;}
   #mob{display: block;}
-	
-  #mob{
-    width:100%;
-	  margin-left: 0%;
-	  left: 0%;
-  }
 
   #mob ul{
-    margin-top: 230px;
-    margin-left: 0px;
-    left: 0px;
+    margin-top: 40px;
     background-color: rgba(0,0,0,0.5);
-    width:100%;
-	  margin-left: 0%;
 	  left: 0%;
+    position:fixed;
+    width: 100%;
+    margin-left: auto;
+    padding-left: 0;
+
   }
   #mob li{
     text-align: center;
     padding: 20px;
     cursor: pointer;
     width:100%;
- margin-left: 0%;
-	  left: 0%;
   }
 }
