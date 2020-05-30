@@ -2,6 +2,8 @@
   <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/styles.css">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://kit.fontawesome.com/386261ce90.js" crossorigin="anonymous"></script>
 </head>
 <style>
 html: {
@@ -13,11 +15,21 @@ html: {
   <body>
     <div class="container">
         <div id="navbar">
-          <img src="pieos-small.png" width="60" height="60" id="logoimage">
-              <h1>PieOS Team</h1>
+          <img src="pieos-small.png" width="50" height="50" id="logoimage">
+              <h2>PieOS Team</h2>
+              <div id="nav">
               <ul>
-                <li><a href="index.html">Home</a></li>
+                <li><a href="index">Home</a></li>
+                <li><a href="/search/global">Search</a></li>
               </ul>
+              </div>
+              <div id="mob">
+              <ul>
+                <li><a href="index">Home</a></li>
+                <li><a href="/search/global">Search</a></li>
+              </ul>
+              </div>
+              <iframe src="https://duckduckgo.com/search.html?prefill=PieOS Search" style="overflow:hidden;margin:0;padding:0;width:408px;height:40px;" frameborder="0" id="search"></iframe>
         </div>
       </div>
   </body>
