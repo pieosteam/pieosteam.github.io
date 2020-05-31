@@ -88,6 +88,26 @@ padding-right: 15px;
   display: none;
 }
 
+#aboutus span{
+  display: block;
+}
+
+#aboutus{
+  left: 4%;
+  top: 90px;
+  position: fixed;
+}
+
+#downloads span{
+  display: block;
+}
+
+#downloads{
+  left: 40%;
+  top: 90px;
+  position: fixed;
+}
+
 @media screen and (max-width: 815px){
   #nav{display: none;}
   #navbar > iframe{display: none;}
