@@ -9,17 +9,6 @@ body {
 	margin:0;
 }
 
-
-.headimg {
-	background-image: url('./pieos_wallpaper.png');
-	background-position: center;
-	background-size: cover;
-	min-height: 700px;
-	margin: -190px;
-	margin-bottom: 100px;
-  position: relative;
-}
-
 .container{
 }
 
@@ -38,7 +27,6 @@ body {
   right: 1px;
   bottom: 1px;
   text-decoration: none;*/
-  background-color: rgba(0,0,0,0.5);
   top: 0px;
 	color: black;
   position: fixed;
@@ -113,34 +101,6 @@ padding-right: 15px;
 
 #social img{
   line-height: 50px;
-}
-
-#bars{
-  display: none;
-}
-
-#aboutus span{
-  display: block;
-}
-
-#aboutus{
-  left: 40px;
-  top: 100px;
-  position: absolute;
-}
-
-#downloads span{
-  display: block;
-}
-
-#downloads{
-  left: 40%;
-  top: 90px;
-  position: absolute;
-}
-
-#headinfo{
-  color: black;
 }
 
 @media screen and (max-width: 815px){
