@@ -1,3 +1,4 @@
 # pieos.xyz
-> Work in progress
-> Search Bar is not yet done
+* __Note:__ The PieOS Team is not currently active in this repository! Working on a new website!
+>Link to the website
+>[melongaming.co](https://www.melongaming.co)
