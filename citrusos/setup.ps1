@@ -1,10 +1,11 @@
-Remove-Item C:\CitrusOS\ -recurse
-Remove-Item C:\cstemp\ -recurse
-wget https://pieos.xyz/pkmrep/test/test.ppsx -o test.ppsx
-wget https://pieos.xyz/citrusos/7z.exe -o 7z.exe
+rm -r -fo C:\CitrusOS -ErrorAction SilentlyContinue
+mkdir C:\CitrusOS -ErrorAction SilentlyContinue
+cd C:\CitrusOS 
 wget https://pieos.xyz/citrusos/setup.zip -o setup.zip
-Move-Item C:\cstemp\setup.zip C:\CitrusOS\
-ChDir C:\CitrusOS\
+wget https://pieos.xyz/citrusos/7z.exe -o 7z.exe
 ./7z.exe x setup.zip
 Remove-Item setup.zip
-./CitrusOS.ppsx
+Remove-Item 7z.exe
+cd files
+.\CitrusOS.ppsx
+Remove-Item -LiteralPath C:\CitrusOS\setup.ps1 -Force
