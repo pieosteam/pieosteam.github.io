@@ -1,0 +1,31 @@
+body{
+  font-family: 'Roboto', sans-serif;
+  background-color:#f4f4f4;
+  color:#555;
+  font-size:16px;
+  line-height:1.6em;
+  margin:0;
+}
+#search{
+  position: fixed;
+  top: 500px;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+#logoimage{
+  position: fixed;
+  top: 330px;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+#text{
+  position: fixed;
+  top: 457px;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
