@@ -15,3 +15,8 @@
 
 ### Q: Where can I the original website?
 #### A: Find the original website [here.](https://pieos.team/old/index.html)
+
+---
+
+### Q: How can i reach out to the PieOS team?
+#### A: Consider checking our [Discord](https://pieos.team/discord)
