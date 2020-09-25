@@ -4,11 +4,14 @@
 - [x] Build the base structure of the website
 - [ ] Make Documentation
 
+---
+
 ## FAQ
 
-#### Q: Where can I find documentation
+### Q: Where can I find documentation?
 #### A: Find documentation at https://docs.pieos.team
 
+---
 
-
-Original website [here](https://www.pieos.team/old.index.html)
+### Q: Where can I the original website
+#### A: Find the original website at https://www.pieos.team/old.index.html
