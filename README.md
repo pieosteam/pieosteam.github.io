@@ -19,5 +19,5 @@ We are still working on the documentation
 
 ---
 
-### Q: How can i reach out to the PieOS team?
+### Q: How can I reach out to the PieOS team?
 #### A: Consider checking our [Discord](https://pieos.team/discord)
