@@ -3,7 +3,7 @@
 ## Checklist
 - [x] Build the base structure of the website
 - [ ] Make Documentation
-
+We are still working on the documentation
 ---
 
 ## FAQ
