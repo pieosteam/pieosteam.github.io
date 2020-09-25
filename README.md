@@ -1,7 +1,13 @@
 # The PieOS Website
-## The new website is in progress and you can find documentation at https://docs.pieos.team
+
+## Checklist
 - [x] Build the base structure of the website
 - [ ] Make Documentation
+
+## FAQ
+
+#### Q: Where can I find documentation
+#### A: Find documentation at https://docs.pieos.team
 
 
 
