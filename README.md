@@ -9,9 +9,9 @@
 ## FAQ
 
 ### Q: Where can I find documentation?
-#### A: Find documentation at https://docs.pieos.team
+#### A: [Check our documentation!](https://docs.pieos.team)
 
 ---
 
-### Q: Where can I the original website
-#### A: Find the original website at https://www.pieos.team/old
+### Q: Where can I the original website?
+#### A: Find the original website [here.](https://pieos.team/old/index.html)
