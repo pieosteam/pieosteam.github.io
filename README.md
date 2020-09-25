@@ -1,5 +1,8 @@
 # The PieOS Website
+## The new website is in progress and you can find documentation at https://docs.pieos.team
+[x] Build the base structure of the website
+[ ] Make Documentation
 
-Took about an hour to make.
+
 
 Original website [here](https://www.pieos.team/old.index.html)
